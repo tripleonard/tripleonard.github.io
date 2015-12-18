@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "tripleonard",
-    "repositoryName": "tripleonard.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"tripleonard","repositoryName":"tripleonard.github.io","branch":"master"},"site":{"url":"https://tripleonard.github.io"},"socialnetwork":{"twitter":"https://twitter.com/tripleonard","github":"https://github.com/tripleonard"},"theme":{"name":"Casper","url":"//tripleonard.github.io/themes/Casper"}}
